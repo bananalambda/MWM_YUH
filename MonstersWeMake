@@ -14,13 +14,12 @@
       "last_updated": "1616368746"
     },
     "2": {
-      "title": "Chapter 2 Title",
+      "title": "Chapter 2 TEST",
       "volume": "1",
       "groups": {
-        "Scanlation Group Name": "https://catbox.moe/c/album_id_for_chapter_2"
+        "Scanlation Group Name": "https://catbox.moe/c/30z5ws"
       },
       "last_updated": "1616455146"
     },
-    // Repeat this structure for chapters 3 through 8
   }
 }
